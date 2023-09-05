@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "AteMeVs"]
+	path = AteMeVs
+	url = https://github.com/cran/AteMeVs
 [submodule "NetDA"]
 	path = NetDA
 	url = https://github.com/cran/NetDA
