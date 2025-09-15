@@ -8,3 +8,6 @@
 [submodule "NetDA"]
 	path = NetDA
 	url = https://github.com/cran/NetDA
+[submodule "SurvGME"]
+	path = SurvGME
+	url = https://github.com/cran/SurvGME
