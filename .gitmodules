@@ -5,6 +5,9 @@
 [submodule "AteMeVs"]
 	path = AteMeVs
 	url = https://github.com/cran/AteMeVs
+[submodule "MSN"]
+	path = MSN
+	url = https://github.com/cran/MSN
 [submodule "NetDA"]
 	path = NetDA
 	url = https://github.com/cran/NetDA
